@@ -1,0 +1,21 @@
+{
+  "name": "flutcla-blue-theme",
+  "displayName": "FlutCla Blue Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FlutCla Blue Theme",
+        "uiTheme": "vs",
+        "path": "./themes/FlutCla Blue Theme-color-theme.json"
+      }
+    ]
+  }
+}
