@@ -17,5 +17,6 @@
         "path": "./themes/FlutCla Blue Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "https://github.com/flutcla/flutcla-blue-theme"
 }
